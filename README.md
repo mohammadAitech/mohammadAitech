@@ -1,107 +1,149 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=header"/>
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Mohammad Sadeghi" alt="Typing SVG" /></a>
-</div> 
-<br>
-<details open>
-    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
-    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
-    <ul>
-        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a student, studying to be a programmer.</a></li><br>
-        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
-    </ul>
-<br>
-</details>
-<details open>
-<summary align="center"><h2 ><img alt="GIF" src="./Image//handshake2.gif" width="25px"> Social Media </h2></summary>
-<div id="badges" align="center">
-    <a href="https://t.me/MOHammaddd369" target="_blank">
-    <img  lign="left"src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/> 
-    </a>
-    <a href="https://www.instagram.com/mammad_sdghi" target="_blank">
-    <img lign="left" src="./Image/instagram.png" width="40" height="40" alt="instagram"/>
-    </a>
-    <a href="https://www.linkedin.com/in/mohammadaithech" target="_blank">
-    <img lign="left" src="https://thumbs.dreamstime.com/b/colored-linkedin-logo-colored-linkedin-logo-vector-ai-file-easily-editable-have-white-background-high-resolution-155698459.jpg" width="40" height="40" alt="linkedin"/>
-    </a>
-</div>
-<br>
-</details>  
-<details open>
-    <summary align="center"><h2><img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0Nzl0NXNvanRtZ2RhZ3QwdTRldG9haWdqMmE5eGQ5djZnM2w4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rH4STTV6GoiHT004rI/giphy.gif" width="25px"> Favorite languages and Tools </h2></summary>
-<div align="center">
-    <p></p> 
-    <a href="https://www.python.org/" target="_blank"> <img alt="Python" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img alt="pandas" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>  
-    <a href="https://numpy.org/" target="_blank"> <img alt="numpy" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-    <a href="https://matplotlib.org/" target="_blank"> <img alt="matplotlib" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" /></a> 
-    <a href="https://seaborn.pydata.org/#" target="_blank"> <img alt="seaborn" height ="42px"  src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" /></a> 
-    <a href="https://scikit-learn.org/stable/" target="_blank"> <img alt="scikit-learn" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>  
-    <a href="https://git-scm.com/" target="_blank"> <img alt="GIT" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-    <a href="https://opencv.org/resources/media-kit/" target="_blank"> <img alt="OpenCV" height="42px"  src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" /></a>
-    <a href="https://pytorch.org/" target="_blank"> <img alt="PyTorch" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></a> 
-    <a href="https://docs.ultralytics.com/" target="_blank"> <img alt="YOLO" height="42px"  src="https://assets-global.website-files.com/646dd1f1a3703e451ba81ecc/64994922cf2a6385a4bf4489_UltralyticsYOLO_mark_blue.svg" /></a>
-       
-</div>
-</details>
-<details>
-<summary align="center"><h2><img alt="GIF" src="./Image/laptop_code.gif" width="25px">Other Languages and Tools </h2></summary>
-<div align="center">
-    <p></p> 
-    <a href="https://www.java.com/en/" target="_blank"> <img alt="Java" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></a>
-    <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img alt="MongoDB" height ="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img alt="TensorFlow" height="42px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></a>
-    <a href="https://keras.io/" target="_blank"> <img alt="Keras" height="42px"  src="https://res.cloudinary.com/apideck/image/upload/v1614063907/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/abxnujenvxm9lx0orn4k.png" /></a>
-    <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"> <img alt="HTML" height="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/800px-HTML5_Badge.svg.png" /></a>
-    <a href="https://ru.wikipedia.org/wiki/CSS" target="_blank"> <img alt="CSS" height="42px"  src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" /></a>
-    <a href="https://unity.com/" target="_blank"> <img alt="Unity" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img alt="Windows" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /></a>
-    <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" /></a>
-    <a href="https://www.php.net/" target="_blank"> <img alt="PHP" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
-    <br>
-    <p></p>
-</div>
-</details>
-<details open>
-<summary align="center"><h2><img alt="GIF" src="./Image/trophy.gif" width="25px"> My various diplomas, certificates </h2></summary>
-  <div align="center">
-      <a href="https://www.sololearn.com/certificates/CC-ECTESIBX" target="_blank"> <img height ="150px"  src="./Image/py-solo.png" /></a>
-      <a href="https://www.sololearn.com/certificates/CC-UZ1ZRBJ8" target="_blank"> <img height ="150px"  src="./Image/c.png" /></a>
-      <a href="https://www.sololearn.com/certificates/CC-5GYGNKHY" target="_blank"> <img height ="150px"  src="./Image/c++.png" /></a>
-      <a href="https://www.sololearn.com/certificates/CC-VMX9RQKO" target="_blank"> <img height ="150px"  src="./Image/in-py.png" /></a>
-      <a href="https://www.sololearn.com/certificates/CC-Z0MWEBYQ" target="_blank"> <img height ="150px"  src="./Image/js.png" /></a>
-      <a href="https://github.com/K1rsN7/K1rsN7/blob/main/Image/diploma_12.png" target="_blank"> <img height ="150px"  src="./Image/diploma_12.png" /></a>
-      <a href="https://aiolearn.app/cs/final/b5909b637690220.jpg" target="_blank"> <img height ="150px"  src="./Image/11.jpg" /></a>
-      <a href="https://aiolearn.app/cs/final/1fb0a2637690223.jpg" target="_blank"> <img height ="150px"  src="./Image/12.png" /></a>
-      <a href="https://aiolearn.app/cs/final/085923637690225.jpg" target="_blank"> <img height ="150px"  src="./Image/13.png" /></a>
-  </div>
-    <br>
-</details>
-<details open>
-<summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
-  <div align="center">
-    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadAitech&theme=transparent&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=mohammadAitech&theme=transparent&rank_icon=github&title_color=00abf0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
-  </div>
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohammadAitech&layout=compact&theme=shadow_blue&hide=Other&title_color=00abf0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/mohammadAitech/mohammadAitech"><img alt="mohammadAitech's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohammadAitech&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  </div>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mohammadAitech}/count.svg" /></p> 
-</div>
-<br>
-</details>
-<div align="center">
-<br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=00abf0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00abf0&height=70&section=footer"/>
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C648%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-841-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 284.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 538 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1584 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+🌆 Daytime                3584 commits        ██████████░░░░░░░░░░░░░░░   39.14 % 
+🌃 Evening                2663 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+🌙 Night                  1326 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Tuesday                  1333 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Wednesday                1440 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 1067 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Friday                   905 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 1237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Sunday                   2140 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               30 hrs 33 mins      █████████████████████░░░░   85.95 % 
+HTML                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+
+🔥 Editors: 
+WebStorm                 33 hrs 4 mins       ███████████████████████░░   92.99 % 
+VS Code                  1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+DataGrip                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+
+💻 Operating System: 
+Mac                      35 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+```
+
+
+
+
+ Last Updated on 02/08/2025 00:38:07 UTC
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
